@@ -11,7 +11,7 @@
 ### 🌐 Let's Connect
 - 📧 Email: [adnanrasool7111@gmail.com](mailto:adnanrasool7111@gmail.com)
 - 🔗 LinkedIn: [Adnan Rasool](https://linkedin.com/in/adnan-rasool-3a5771217)
-- 🌐 Portfolio:[My Portfolio](https://adnanrasool128.github.io/portfolio/)
+- 🌐 Portfolio:[My Portfolio](https://adnanrasool128.github.io/Portfolio/)
 
 ---
 

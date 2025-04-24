@@ -8,7 +8,6 @@
 ### 📬 Connect with Me
 - 📧 Email: [adnanrasool7111@gmail.com](mailto:adnanrasool7111@gmail.com)
 - 🔗 LinkedIn: [Adnan Rasool](https://linkedin.com/in/adnan-rasool-3a5771217)
-- 🧑‍💻 GitHub: [adnanrasool128](https://github.com/adnanrasool128)
 
 ---
 

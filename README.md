@@ -16,7 +16,7 @@
 
 **University of Petroleum and Energy Studies (UPES), Dehradun, India**  
 *Bachelor of Technology in CSE – Cloud Computing*  
-📅 Aug 2022 – June 2026 | CGPA: **7.7 / 10.0**
+📅 Aug 2022 – June 2026 
 
 **Maa Bharti Sr. Sec School**  
 📅 March 2020 – May 2021 | Percentage: **80%**
@@ -24,14 +24,6 @@
 **Aditya Birla Public School**  
 📅 March 2018 – May 2019 | Percentage: **88%**
 
----
-
-### 💼 Internship
-
-**Social Intern** @ *SAMARTH Foundation, Lucknow*  
-📅 June 2023 – Aug 2023  
-- Contributed to impactful community upliftment projects  
-- Received a Letter of Recommendation for outstanding performance
 ---
 
 ### 🛠️ Skills
@@ -51,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adnanrasool128&show_icons=true&theme=tokyonight" alt="adnanrasool128 stats"/>
   <br>

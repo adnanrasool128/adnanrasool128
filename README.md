@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Cloud Engineer | Full-Stack Developer | AWS Certified | Tech Optimist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Computing+Student+%40+UPES;Passionate+about+Technology+%26+Innovation;Open+to+collaboration+and+learning!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Computing+Enthusiast;Passionate+about+Technology+%26+Innovation;Open+to+collaboration+and+learning!" />
 </p>
 
 ---

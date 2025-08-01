@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Computing+Enthusiast;Passionate+about+Technology+%26+Innovation;Open+to+collaboration+and+learning!" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adnanrasool128&label=Profile+views&color=0e75b6&style=flat" alt="adnanrasool128" />
+</p>
+
 ---
 
 ### 🌐 Let's Connect
